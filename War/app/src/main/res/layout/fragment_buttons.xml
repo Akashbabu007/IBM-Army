@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FragmentButtons">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <Button
+            android:layout_marginTop="5dp"
+            android:id="@+id/Select_Guns_id"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Selecting_Guns"
+            android:textColor="@color/Button_text_color"
+            android:background="@drawable/rounded_button" />
+
+        <Button
+            android:text="@string/Selecting_Horse"
+            android:textColor="@color/Button_text_color"
+            android:background="@drawable/rounded_button"
+            android:id="@+id/Select_Horse_id"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            />
+
+        <Button
+            android:id="@+id/Select_Bullets_id"
+            android:text="@string/Selecting_Bullets"
+            android:textColor="@color/Button_text_color"
+            android:background="@drawable/rounded_button"
+            android:layout_marginTop="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/Select_Army_Men_id"
+            android:text="@string/Selecting_army_men"
+            android:textColor="@color/Button_text_color"
+            android:background="@drawable/rounded_button"
+            android:layout_marginTop="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/Select_call_for_war_id"
+            android:text="@string/Selecting_call_for_war"
+            android:textColor="@color/Button_text_color"
+            android:background="@drawable/rounded_button"
+            android:layout_marginTop="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+
+</LinearLayout>

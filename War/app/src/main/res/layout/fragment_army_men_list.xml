@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FragmentArmyMenList"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/cavalry_Army"
+            android:layout_marginTop="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/army_men_1"
+            android:background="@drawable/rounded_button"
+            android:textColor="@color/Button_text_color"/>
+
+        <Button
+            android:id="@+id/battle_Horse_Army"
+            android:layout_marginTop="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/army_men_2"
+            android:background="@drawable/rounded_button"
+            android:textColor="@color/Button_text_color"/>
+
+        <Button
+            android:id="@+id/horse_Marines_Army"
+            android:layout_marginTop="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/army_men_3"
+            android:background="@drawable/rounded_button"
+            android:textColor="@color/Button_text_color"/>
+
+    </LinearLayout>
+
+</LinearLayout>

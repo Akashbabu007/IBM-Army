@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">War</string>
+    <string name="Selecting_Guns">Select Guns</string>
+    <string name="Selecting_Horse">Select Horse</string>
+    <string name="Selecting_Bullets">Select Bullets</string>
+    <string name="Selecting_army_men">Select ArmyMen</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Gun_1">M642</string>
+    <string name="Gun_2">MK14</string>
+    <string name="Gun_3">BM4</string>
+    <string name="Horse_1">Chetak</string>
+    <string name='Horse_2'>Palomo</string>
+    <string name="Horse_3">Sergeant Reckless</string>
+    <string name="Bullet_1">5.56 ammo</string>
+    <string name="Bullet_2">7.62 ammo</string>
+    <string name="Bullet_3">8.24 ammo</string>
+    <string name="army_men_1">Cavalry</string>
+    <string name="army_men_2">Battle Horse</string>
+    <string name="army_men_3">Horse Marines</string>
+    <string name="about_m642"><![CDATA[The Heckler & Koch HK416, more commonly known as the M416 is an improved variation of the Colt M4 and M16 assault rifles. The 416 features a longer part lifespan, a more reliable gas-stroke piston system, and the ability to interchange many standard M4/M16 parts into the weapon such as magazines, optics, and stocks.]]></string>
+    <string name="about_mk14">The Mk 14 Enhanced Battle Rifle is an American selective fire military designated marksman rifle chambered for the 7.62×51mm NATO cartridge.</string>
+    <string name="about_bm4">The Benelli M4 Super 90 is an Italian semi-automatic shotgun manufactured by Benelli Armi SpA.</string>
+    <string name="select_button">SELECT</string>
+    <string name="cancel_button">CANCEL</string>
+    <string name="todo">TODO</string>
+    <string name="about_horse_1">This is a chetak horse</string>
+    <string name="about_horse_2">This is a palomo horse</string>
+    <string name="about_horse_3">This is a Sergeant Reckless</string>
+    <string name="about_bullet_1">This is bullet1</string>
+    <string name="about_bullet_2">This is bullet2</string>
+    <string name="about_bullet_3">This is bullet3</string>
+    <string name="Selecting_call_for_war">CALL FOR WAR</string>
+</resources>

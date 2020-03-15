@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FragmentHorseList"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/chetak_horse"
+        android:text="@string/Horse_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/Button_text_color"
+        android:background="@drawable/rounded_button"
+        android:layout_marginTop="5dp"/>
+
+    <Button
+        android:id="@+id/Palomo_horse"
+        android:text="@string/Horse_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/Button_text_color"
+        android:background="@drawable/rounded_button"
+        android:layout_marginTop="5dp"/>
+
+    <Button
+        android:id="@+id/sergeant_reckless_horse"
+        android:text="@string/Horse_3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/Button_text_color"
+        android:background="@drawable/rounded_button"
+        android:layout_marginTop="5dp"/>
+
+</LinearLayout>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FragmentBulletsList"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/bullet_1"
+        android:text="@string/Bullet_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/Button_text_color"
+        android:background="@drawable/rounded_button"
+        android:layout_marginTop="5dp"/>
+
+    <Button
+        android:id="@+id/bullet_2"
+        android:text="@string/Bullet_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/Button_text_color"
+        android:background="@drawable/rounded_button"
+        android:layout_marginTop="5dp"/>
+
+    <Button
+        android:id="@+id/bullet_3"
+        android:text="@string/Bullet_3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/Button_text_color"
+        android:background="@drawable/rounded_button"
+        android:layout_marginTop="5dp"/>
+
+
+</LinearLayout>
