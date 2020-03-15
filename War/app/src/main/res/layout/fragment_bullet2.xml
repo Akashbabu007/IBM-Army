@@ -9,8 +9,8 @@
     <ImageView
         android:layout_marginTop="5dp"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:src="@drawable/downloads"/>
+        android:layout_height="250dp"
+        android:src="@drawable/download5"/>
     <TextView
         android:layout_marginTop="10dp"
         android:layout_width="wrap_content"
